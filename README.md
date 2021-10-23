@@ -92,5 +92,6 @@ Menú de Reclutamiento:
 
 
 
+![Screenshot](diagrama.png)
 
 
